@@ -1,2 +1,2 @@
 # ML
-Logistic regression, logistic est, softmax, softmax test 
+Logistic regression, logistic test, softmax, softmax test 
